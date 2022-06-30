@@ -9,4 +9,6 @@ class Solver
     end
     multiply
   end
+
+ 
 end

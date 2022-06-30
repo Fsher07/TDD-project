@@ -10,4 +10,8 @@ describe Solver do
   it 'raise an exception when a negative integer is entered' do
     expect { solver.factorial(-5) }.to raise_error(RuntimeError)
   end
+
+  it 'reverse a word' do
+    expect(solver.reverse('apple')).to eq 'elppa'
+  end
 end
