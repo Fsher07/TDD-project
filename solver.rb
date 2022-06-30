@@ -10,5 +10,7 @@ class Solver
     multiply
   end
 
- 
+  def reverse(word)
+    word.reverse
+  end
 end
