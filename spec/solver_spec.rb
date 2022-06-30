@@ -1,4 +1,4 @@
-require './spec/spec_helper.rb'
+require './spec/spec_helper'
 
 describe Solver do
   solver = Solver.new
