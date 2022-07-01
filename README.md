@@ -33,11 +33,12 @@ To run any ruby file:
 $ ruby (name of file)
 ```
 ### Run tests
-
+```
 $ gem install rspec
-
+```
+```
 $ rspec
-
+```
 ## Authors
 
 👤 **Taiwo Damola Adediran**
