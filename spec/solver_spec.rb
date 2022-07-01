@@ -7,6 +7,10 @@ describe Solver do
     expect(solver.factorial(5)).to eq 120
   end
 
+  it 'when the argument is 0 return 1' do
+    expect(solver.factorial(0)).to eq 1
+  end
+
   it 'raise an exception when a negative integer is entered' do
     expect { solver.factorial(-5) }.to raise_error(RuntimeError)
   end
