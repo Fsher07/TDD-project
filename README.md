@@ -1,73 +1,64 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# TDD-project
 
-# Project Name
-
-> Description the project.
+> This project is a practise by doing test-driven development (TDD).
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+- Ruby
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
 
-### Install
+To get a local copy up and running follow these simple example steps:
+
+```
+$ git clone https://github.com/Fsher07/TDD-project.git
+```
+
+```
+$ cd TDD-project
+```
+
+```
+$ bundle install
+```
 
 ### Usage
 
+To run any ruby file:
+
+```
+$ ruby (name of file)
+```
 ### Run tests
 
-### Deployment
+$ gem install rspec
 
-
+$ rspec
 
 ## Authors
 
-👤 **Author1**
+👤 **Taiwo Damola Adediran**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@tylher](https://github.com/tylher)
+- Twitter: [@tylher123](https://twitter.com/tylher123)
+- LinkedIn: [Taiwo Adediran](https://www.linkedin.com/in/taiwo-adediran-327654127/)
 
-👤 **Author2**
+👤 **Yannick Zahinda**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@YannickZahinda](https://github.com/YannickZahinda)
+- Twitter: [@ZahindaY](https://twitter.com/ZahindaY)
+- LinkedIn: [Yannick MULIKUZA](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
+👤 **Furkan Salim Hıdır**
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+- GitHub: [Salim](https://github.com/Fsher07)
+- Twitter: [Salim](https://twitter.com/furkansalimhdr1)
+- LinkedIn: [Salim](https://www.linkedin.com/in/fsalimhidir/)
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
